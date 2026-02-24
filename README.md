@@ -27,5 +27,15 @@ Methods: The pipeline processes 6,639 labelled cry recordings from multiple data
 Neonatal cry classification; Health Acoustic Representations (HeAR); Google HeAR; infant cry analysis; pain detection; hunger detection; neurological distress; audio embeddings; deep learning; machine learning; transformer-based audio model; health audio foundation model; neonatal intensive care (NICU); acoustic biomarker; speech processing; audio augmentation; transfer learning; fine-tuning; support vector machine (SVM); multi-layer perceptron; ROC-AUC; class imbalance; clinical decision support; non-invasive monitoring; respiratory distress screening; baby cry analysis; paralinguistic analysis; health AI; medical audio analysis; generalizability; holdout validation </p>
 
 
-<h1>Gpahical Plots</h1>
+
+h1>Gpahical Plots</h1>
+
+<img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/8d35d583-39a1-46da-8bb5-19c1f3cb8733" />
+<img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/8d35d583-39a1-46da-8bb5-19c1f3cb8733" />
+<img width="1280" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/28f6bb58-36e3-472c-b369-d05bf89d0935" />
+<img width="1280" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/28f6bb58-36e3-472c-b369-d05bf89d0935" />
+<img width="1280" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/b945185e-eaed-4944-a437-b816e92b27f2" />
+<img width="1280" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/b945185e-eaed-4944-a437-b816e92b27f2" />
+<img width="1280" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/c797a85d-e57d-4477-babb-a99f2e08f3e4" />
+<img width="1280" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/c797a85d-e57d-4477-babb-a99f2e08f3e4" />
 
