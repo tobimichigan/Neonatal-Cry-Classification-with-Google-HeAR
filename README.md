@@ -2,8 +2,10 @@
 This research project, leveraging Google's HeAR model, classifies neonatal cries into pain, hunger, and neurological distress.
 
 
-<p>Abstract</p>
+<h1><p align="center">Abstract</p></h1>
 <p>Neonatal Cry Classification with Google HeAR: A Case Study Classification of Baby Cries: A Case Study Classification of Baby Cries</p>
+
+Live Demo: https://handsonlabs.org/baby_crylensApp/crylens-app.html
 
 <img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/09eb374a-e53b-4ca3-8798-8342e1b57acc" />
 
